@@ -9,7 +9,7 @@ class KamarHotel {
 
     public KamarHotel(String nomorKamar, String tipeKamar, int kapasitasMaksimal) {
         this.nomorKamar = nomorKamar;
-        setTipeKamar(tipeKamar); // Memanfaatkan setter agar validasi tetap berjalan
+        setTipeKamar(tipeKamar); 
         this.kapasitasMaksimal = kapasitasMaksimal;
         this.hargaPerMalam = 0.0;
         this.isTersedia = true;
