@@ -85,7 +85,7 @@ class KamarHotel {
         }
     }
 
-    // Bill
+    // Bil
 
     //  Menghitung total tanpa voucher
     public double hitungTotalBayar(int jumlahMalam) {
